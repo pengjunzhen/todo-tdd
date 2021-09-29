@@ -1,2 +1,3 @@
 rootProject.name = 'todo-tdd'
+include 'todo-core'
 
